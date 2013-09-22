@@ -1,6 +1,6 @@
 YouTubeBookmarks
 
-====================================
+================
 
 Chrome Extension that allows users to "bookmark" their YouTube videos for later viewing.
 The key feature of this extension will be the ability to save the time in the video at which
